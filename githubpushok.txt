@@ -1,0 +1,15 @@
+
+git init
+git config --global http.postBuffer 524288000
+git add .
+git commit -m "first"
+git branch -M main
+git remote add origin https://github.com/nayipi/TFxml.git
+git push -u origin main
+
+
+git remote add origin https://github.com/nayipi/TFxml.git
+git branch -M main
+git push -u origin main
+
+
